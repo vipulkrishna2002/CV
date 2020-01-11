@@ -1,0 +1,44 @@
+#personalInfo{
+	
+	line-height: 15px; 
+	padding: 15px;
+}
+#objective{
+
+	padding: 15px;
+}
+
+#education{
+	padding: 15px;
+}
+#skills{
+	padding: 15px;
+}
+#projects{
+	padding: 15px;
+}
+p{
+	
+	width: 1000px;
+
+}
+li{
+	
+}
+#photo{
+    margin-right:100px; 
+	float: right;
+	border-radius: 50%;
+
+}
+
+table,td,th{
+	border:black solid 1px;
+}
+
+body{
+	margin: 2px 2px;
+	border:2px solid black;
+	
+
+}
